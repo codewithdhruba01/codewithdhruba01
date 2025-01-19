@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dhrubaraj Pati</h1>
 <h3 align="center">Full Stack Web Developer | Web Devlopment |</h3>
 
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif" alt="" /></a> </p>
+<p align="center" width="100"> <a href="https://twitter.com/" target="blank"><img src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif" width="500" /></a> </p>
 
 🌱 I’m currently learning **Python, React Nativ**
 
