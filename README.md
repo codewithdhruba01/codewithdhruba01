@@ -4,7 +4,7 @@
  I specialize in creating dynamic, scalable, and responsive web applications. <br>
 With expertise in both front-end technologies, I am proficient in HTML, CSS, <br>
     JavaScript, React, technologies. <br>
----------
+-------
 <p align="center" width="100"> <a href="https://twitter.com/" target="blank"><img src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif" width="500" /></a> </p>
 
 🌱 I’m currently learning **Python, React Nativ**
