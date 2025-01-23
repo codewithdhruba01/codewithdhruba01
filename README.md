@@ -11,7 +11,7 @@ With expertise in both front-end technologies, I am proficient in <br> HTML, CSS
 
 🤝 I’m looking for help with **Web Development**
 
-💬 Ask me about **MEAR**
+💬 Ask me about **Full Stack **
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
