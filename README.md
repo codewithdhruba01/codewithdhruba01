@@ -3,9 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dhrubaraj+Pati!;" />
 </h1>
 <h3 align="center"> Frontend Developer | Web Devlopment </h3>
- I specialize in creating dynamic, scalable, and responsive web applications. <br>
-With expertise in both front-end technologies, I am proficient in <br> HTML, CSS,
-    JavaScript, React, technologies. <br>
+ I specialize in creating dynamic, scalable, and responsive web<br> 
+ applications. With expertise in both front-end technologies,<br> 
+I am proficient in HTML, CSS, JavaScript, React, technologies. <br>
 -------
 <p align="center" width="100"> <a href="https://twitter.com/" target="blank"><img src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif" width="500" /></a> </p>
 
