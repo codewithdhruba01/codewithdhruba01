@@ -28,10 +28,12 @@ I am proficient in HTML, CSS, JavaScript, React, technologies. <br>
 </div>
 <br>
 <h3 align="center">GitHub Stats</h3> 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithdhruba01&show_icons=true&locale=en&layout=compact" alt="codewithdhruba01" />
 <br>
-<p> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithdhruba01&show_icons=true&locale=en" alt="codewithdhruba01" height="150" />  </p> <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithdhruba01&show_icons=true&locale=en&layout=compact" alt="codewithdhruba01" height="150" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=codewithdhruba01&show_icons=true&locale=en" alt="codewithdhruba01" height="150"/>
 <br>
+
 📫 Email: pati.dhrubaraj@outlook.com <br>
 ⚡ Fun fact: A day on Venus is longer than a year.
     </div>
