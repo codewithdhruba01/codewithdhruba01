@@ -38,7 +38,5 @@ I am proficient in HTML, CSS, JavaScript, React, technologies. <br>
 ⚡ Fun fact: A day on Venus is longer than a year.
     </div>
     <br>
-    <div align="center">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
   </div>
