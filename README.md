@@ -2,10 +2,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dhrubaraj+Pati!;" />
 </h1>
-<h3 align="center"> Frontend Developer | Web Devlopment </h3>
- I specialize in creating dynamic, scalable, and responsive web<br>
-applications. With expertise in both front-end technologies,<br> 
-I am proficient in HTML, CSS, JavaScript, React, technologies. <br>
+<h3 align="center">  </h3>
+Hi! I'm Dhrubaraj, a passionate 2rd-year CS student at Swami Vivekananda University <br>I’ve always been passionate about technology and coding. <br> To pursue my career in tech, I took a proactive approach to <br> self-learning programming. I started with foundational skill <br>
 -----
 <p align="center" width="100"> <a href="https://twitter.com/" target="blank"><img src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif" width="500" /></a> </p>
 
