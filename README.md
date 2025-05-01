@@ -50,6 +50,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdhruba01&layout=compact&theme=dracula&hide_border=false" height="150" />
 </div>
 
+---
+<h2 align="left">
+🏆 GitHub Trophy
+</h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=codewithdhruba01&theme=onedark)](https://github.com//github-codewithdhruba01profile-trophy)
+
+---
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
@@ -59,8 +67,6 @@
 
 ---
 
-
-<p align="center">
 - ⚡ Fun fact: A day on Venus is longer than a year. <br>
 - 📫 Email: pati.dhrubaraj@outlook.com
 </p>
