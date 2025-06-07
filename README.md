@@ -1,7 +1,4 @@
-<h1 align="center">
-  Hey, I'm Dhrubaraj Pati
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
-</h1>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/dhrubaraj-pati/">Dhrubaraj Pati <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></a></h1>
 
 <!-- Typing effect -->
 <p align="center">
@@ -11,15 +8,23 @@
 </p>
 
 
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif" />
+<img align="right" alt="Coding" min-width="300px" max-width="200px" width="350px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
 
-- 🎓 I'm a 2nd year **BCA** student.
+ <img src="" width="500">
+
+
+<!-- About me -->
+
+- 🎓 I'm a Final Year **CS** Student.
+- 🧑🏿‍💻 **Open Source Contributor**
 - 🌱 I’m currently learning **React**
 - 👀 Interested in **Full-stack Development**.
-- 💡 Currently focused on **Python** and **Development**.
+- 💡 Currently focused on **DSA** and **Development**.
 - 📚 I’ve always been passionate about technology and coding.
 
+
+<!-- Tech Stack -->
 
 ## 💻 Tech Stack
 
@@ -29,7 +34,7 @@
   </a>
 </p>
 
-
+<!-- Tools -->
 
 ## 🔧 Tools I Use
 
@@ -39,34 +44,32 @@
   </a>
 </p>
 
+<!-- Certification Badges -->
 
+## Certification Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<a href="https://api.badgr.io/public/assertions/wr0NTzwXSZiEuORGzNlwVg?identity__email=patidhrubaraj%40gmail.com"> </a>
+<img src="Assets/Postman - Postman.png" width="100px" height="100px" />
+</div>
+
+
+<!-- GitHub Stats -->
 <h2 align="left">
 📈 GitHub Stats
 </h2>
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=codewithdhruba01&theme=dracula&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithdhruba01&show_icons=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdhruba01&layout=compact&theme=dracula&hide_border=false" height="150" />
-</div>
-
----
-<h2 align="left">
-🏆 GitHub Trophy
-</h2>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=codewithdhruba01&theme=onedark)](https://github.com//github-codewithdhruba01profile-trophy)
+![codewithdhruba01's Stats](https://github-readme-stats.vercel.app/api?username=codewithdhruba01&theme=dark&show_icons=true&hide_border=true&count_private=true) ![codewithdhruba01's Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithdhruba01&theme=dark&hide_border=true) ![codewithdhruba01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdhruba01&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dhrubaraj-pati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhrubaraj-pati" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dhrubaraj_pati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhrubaraj_pati" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://dhrubaraj-portfolio.netlify.app/">Portfolios</a> -
+  <a href="https://www.linkedin.com/in/dhrubaraj-pati/">LinkedIn</a> - 
+  <a href="https://www.instagram.com/dhrubaraj_pati/">Instagram</a> -
+  <a href="https://www.linkedin.com/in/dhrubaraj-pati/">Contact me.</a> 
 </p>
 
----
-
+<p align="center">
 - ⚡ Fun fact: A day on Venus is longer than a year. <br>
 - 📫 Email: pati.dhrubaraj@outlook.com
 </p>
