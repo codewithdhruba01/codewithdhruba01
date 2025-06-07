@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/dhrubaraj-pati/">Dhrubaraj Pati <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" /></a></h1>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/dhrubaraj-pati/">Dhrubaraj</a> </h1>
 
 <!-- Typing effect -->
 <p align="center">
@@ -8,7 +8,7 @@
 </p>
 
 
-<img align="right" alt="Coding" min-width="300px" max-width="200px" width="360px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+<img align="right" alt="Coding" min-width="300px" max-width="200px" width="340px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
 
 <!-- About me -->
@@ -44,7 +44,7 @@
 <!-- Certification Badges -->
 
 ## Certification Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<div style='display:flex; align-items:center; gap: 10px;' align='left'>
 <a href="https://api.badgr.io/public/assertions/wr0NTzwXSZiEuORGzNlwVg?identity__email=patidhrubaraj%40gmail.com"> </a>
 <img src="Assets/Postman - Postman.png" width="100px" height="100px" />
 </div>
@@ -55,7 +55,10 @@
 📈 GitHub Stats
 </h2>
 
-![codewithdhruba01's Stats](https://github-readme-stats.vercel.app/api?username=codewithdhruba01&theme=dark&show_icons=true&hide_border=true&count_private=true) ![codewithdhruba01's Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithdhruba01&theme=dark&hide_border=true) ![codewithdhruba01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdhruba01&theme=dark&show_icons=true&hide_border=true&layout=compact)
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=codewithdhruba01&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithdhruba01&show_icons=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdhruba01&layout=compact&theme=dracula&hide_border=false" height="150" />
 
 ---
 
