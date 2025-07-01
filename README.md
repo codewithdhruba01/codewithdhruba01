@@ -5,6 +5,10 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=A+Passionate+Coder;Self+learning;Python+%7C+Web+Developer;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
+  <h3 align="center">About Me</h3>
+  <h4 align="center">I am a Full Stack Developer based in India, specializing in designing and developing robust, user-centric web applications that deliver real value.
+Currently pursuing a Bachelor’s degree in Computer Applications with a focus on Computer Science and Engineering, I am committed to leveraging modern technologies to create scalable and innovative solutions.
+In addition to my academic pursuits, I am deeply engaged in exploring emerging trends in software development, actively contributing to open-source initiatives, and continuously enhancing my skills to remain at the cutting edge of the tech landscape.</h4>
 </p>
 
 
@@ -23,11 +27,21 @@
 
 <!-- Tech Stack -->
 
-## 💻 Tech Stack
+## 💻 Programing lenguage
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,c,python" />
+    <img src="https://skillicons.dev/icons?i=c,python,java,js" />
+  </a>
+</p>
+
+<!-- Devlopment -->
+
+## 💻 Devlopment
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,typescript,tailwind,bootstrap,materialui,vite,npm" />
   </a>
 </p>
 
@@ -37,7 +51,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=powershell,vscode,pycharm,git,github,md,linux,replit,netlify" />
+    <img src="https://skillicons.dev/icons?i=powershell,vscode,pycharm,git,github,md,linux,replit,netlify,vercel" />
   </a>
 </p>
 
@@ -52,13 +66,13 @@
 
 <!-- GitHub Stats -->
 <h2 align="left">
-📈 GitHub Stats
+GitHub Stats
 </h2>
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=codewithdhruba01&theme=dracula&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithdhruba01&show_icons=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdhruba01&layout=compact&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithdhruba01&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="150" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdhruba01&layout=compact&theme=radical&hide_border=true&langs_count=8" height="150" />
+  
 
 ---
 
