@@ -5,10 +5,10 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=A+Passionate+Coder;Self+learning;Python+%7C+Web+Developer;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
-  <h3 align="center">About Me</h3>
-  <h4 align="center">I am a Full Stack Developer based in India, specializing in designing and developing robust, user-centric web applications that deliver real value.
+  <h2 align="center">About Me</h2>
+  <p align="center">I am a Full Stack Developer based in India, specializing in designing and developing robust, user-centric web applications that deliver real value.
 Currently pursuing a Bachelor’s degree in Computer Applications with a focus on Computer Science and Engineering, I am committed to leveraging modern technologies to create scalable and innovative solutions.
-In addition to my academic pursuits, I am deeply engaged in exploring emerging trends in software development, actively contributing to open-source initiatives, and continuously enhancing my skills to remain at the cutting edge of the tech landscape.</h4>
+In addition to my academic pursuits, I am deeply engaged in exploring emerging trends in software development, actively contributing to open-source initiatives, and continuously enhancing my skills to remain at the cutting edge of the tech landscape.</p>
 </p>
 
 
@@ -41,7 +41,7 @@ In addition to my academic pursuits, I am deeply engaged in exploring emerging t
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,typescript,tailwind,bootstrap,materialui,vite,npm" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,typescript,bootstrap,materialui,vite,npm" />
   </a>
 </p>
 
