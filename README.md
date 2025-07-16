@@ -84,6 +84,10 @@ GitHub Stats
 </p>
 
 <p align="center">
-- ⚡ Fun fact: A day on Venus is longer than a year. <br>
-- 📫 Email: pati.dhrubaraj@outlook.com
+⚡ Fun fact: A day on Venus is longer than a year. <br>
+📫 Email: pati.dhrubaraj@outlook.com
 </p>
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=codewithdhruba01&color=blue)
