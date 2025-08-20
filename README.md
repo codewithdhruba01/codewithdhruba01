@@ -77,7 +77,7 @@ GitHub Stats
 ---
 
 <p align="center">
-  <a href="https://dhrubaraj-portfolio.netlify.app/">Portfolios</a> -
+  <a href="https://codewithdhruba.netlify.app/">Portfolios</a> -
   <a href="https://www.linkedin.com/in/dhrubaraj-pati/">LinkedIn</a> - 
   <a href="https://www.instagram.com/dhrubaraj_pati/">Instagram</a> -
   <a href="https://www.linkedin.com/in/dhrubaraj-pati/">Contact me.</a> 
