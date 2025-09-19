@@ -58,9 +58,9 @@ In addition to my academic pursuits, I am deeply engaged in exploring emerging t
 <!-- Certification Badges -->
 
 ## Certification Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='left'>
-<a href="https://api.badgr.io/public/assertions/wr0NTzwXSZiEuORGzNlwVg?identity__email=patidhrubaraj%40gmail.com"> </a>
-<img src="Assets/Postman - Postman.png" width="100px" height="100px" />
+  <a href="https://api.badgr.io/public/assertions/wr0NTzwXSZiEuORGzNlwVg?identity__email=patidhrubaraj%40gmail.com"> </a>
+<img src="Assets/Postman - Postman.png" width="100px" height="100px" /> <a href="https://cdn.qwiklabs.com/4MlP8X6Zqepz7nED0fOVdlLiiDTgLW6D79lZtC4j64M%3D"> </a>
+<img src="https://cdn.qwiklabs.com/4MlP8X6Zqepz7nED0fOVdlLiiDTgLW6D79lZtC4j64M%3D" width="100px" height="100px" />
 </div>
 
 
