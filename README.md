@@ -1,19 +1,10 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/dhrubaraj-pati/">Dhrubaraj</a> </h1>
+# Hi 👋, I'm Dhrubaraj Pati
 
-<!-- Typing effect -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=A+Passionate+Coder;Self+learning;Python+%7C+Web+Developer;Always+Learning+New+Things" alt="Typing SVG" />
-  </a>
-  <h2 align="center">About Me</h2>
-  <p align="center">I am a Full Stack Developer based in India, specializing in designing and developing robust, user-centric web applications that deliver real value.
-Currently pursuing a Bachelor’s degree in Computer Applications with a focus on Computer Science and Engineering, I am committed to leveraging modern technologies to create scalable and innovative solutions.
-In addition to my academic pursuits, I am deeply engaged in exploring emerging trends in software development, actively contributing to open-source initiatives, and continuously enhancing my skills to remain at the cutting edge of the tech landscape.</p>
-</p>
+## Interactive Full Stack Developer
 
+A Full Stack Developer crafts seamless digital experiences, blending front-end creativity with back-end logic, mastering diverse technologies to build robust, user-friendly, and efficient web applications from start to finish.
 
-<img align="right" alt="Coding" min-width="300px" max-width="200px" width="340px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-
+[![An image of @codewithdhruba01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codewithdhruba01)](https://holopin.io/@codewithdhruba01)
 
 <!-- About me -->
 
