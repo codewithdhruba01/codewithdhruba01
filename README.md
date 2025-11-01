@@ -7,8 +7,6 @@ A Full Stack Developer crafts seamless digital experiences, blending front-end c
 [![An image of @codewithdhruba01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codewithdhruba01)](https://holopin.io/@codewithdhruba01)
 
 <!-- About me -->
-
-- 🎓 I'm a Final Year **CS** Student.
 - 🧑🏿‍💻 **Open Source Contributor**
 - 🌱 I’m currently learning **React**
 - 👀 Interested in **Full-stack Development**.
