@@ -52,6 +52,21 @@ A Full Stack Developer crafts seamless digital experiences, blending front-end c
 <img src="https://cdn.qwiklabs.com/4MlP8X6Zqepz7nED0fOVdlLiiDTgLW6D79lZtC4j64M%3D" width="100px" height="100px" />
 </div>
 
+<details>	
+ <summary>
+<!--- 1st Section on Curated Articles -->
+<b>📝Open Source Contributions </b></summary><br>
+I like to contribute to Open Source projects with documentation, <br> helping resolving doubts or if possible solving bugfixes. <br>
+<br>
+  
+| Project | Issues resolved or contributing |
+|---|---|
+| [Microsoft Generative-AI](https://github.com/microsoft/generative-ai-with-javascript)  | [🎉 Merged PR 10+](https://github.com/microsoft/generative-ai-with-javascript/pull/111) |   
+| [Recode Hive](https://github.com/recodehive/recode-website)  | [🎉 Merged PR 30+ ](https://github.com/recodehive/awesome-github-profiles/pull/1388) |
+| [Khc-Official](https://github.com/Krypto-Hashers-Community/Khc-Official) | [🎉 Merged PR 2](https://github.com/Krypto-Hashers-Community/Khc-Official/pull/10) |
+
+</details> 
+
 
 <!-- GitHub Stats -->
 <h2 align="left">
