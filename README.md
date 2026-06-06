@@ -40,25 +40,6 @@ Here are some posts you might find useful:
 - 👉 **[Essential Linux Commands](https://www.codewithdhruba.in/blog/essential-linux-commands)** - A Comprehensive Guide
 - 👉 **[OpenWeather API](https://www.codewithdhruba.in/blog/openweather-api-guide)** - The Ultimate Guide
 
-## Open Source Contributions
-
-Here are some Open Source Contributions:
-- [Microsoft Generative-AI](https://github.com/microsoft/generative-ai-with-javascript)
-- [Recode Hive](https://github.com/recodehive/recode-website)
-- [Khc-Official](https://github.com/Krypto-Hashers-Community/Khc-Official)
-- [hive](https://github.com/adenhq/hive)
-
-
-<!-- GitHub Stats -->
-<h2 align="left">
-GitHub Stats
-</h2>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithdhruba01&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="150" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdhruba01&layout=compact&theme=radical&hide_border=true&langs_count=8" height="150" />
-  
-
 ---
 
 <p align="center">
